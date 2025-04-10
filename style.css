@@ -38,17 +38,15 @@ img{
 
 .card__content{
     width: 288px;
-    padding: 0 16px 0 16px; 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
+    height: 131px;
+    padding: 0 16px 40px 16px; 
     text-align: center;
 }
 
 .card__title{
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    height: 52px;
     margin-bottom: 16px;
 }
 
@@ -57,4 +55,6 @@ img{
     font-size: 15px;
     color: hsl(216, 15%, 48%);
     width: 256px;
+    height: 63px;
+    margin: auto;
 }
