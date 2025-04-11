@@ -59,19 +59,3 @@ img{
     height: 63px;
     margin: auto;
 }
-
-.attribution , .attribution>a{
-    font-size: 15px;
-    font-weight: 400;
-    margin-top: 10px;
-    text-decoration: none;
-    color: hsl(218, 44%, 22%);
-}
-
-.attribution > a:hover{
-    color: hsl(218, 44%, 22%);   
-}
-
-.attribution > a:visited{
-    color: hsl(216, 15%, 48%);
-}
