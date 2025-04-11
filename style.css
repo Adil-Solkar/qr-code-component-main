@@ -68,10 +68,11 @@ img{
     color: hsl(218, 44%, 22%);
 }
 
+.attribution > a:visited{
+    color: hsl(216, 15%, 48%);
+}
+
 .attribution > a:hover{
     color: hsl(218, 44%, 22%);   
 }
 
-.attribution > a:visited{
-    color: hsl(216, 15%, 48%);
-}
