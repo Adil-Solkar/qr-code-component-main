@@ -35,10 +35,10 @@ To make the image fully fit its parent container, its display was set to `block`
 
 ### What I learned
 
-1. How the **box model** works and how padding, borders, and margins affect layout
-2. How to use **Flexbox** to center elements both vertically and horizontally
-3. How to apply **border-radius** for creating smooth, rounded corners
-4. How to fit an **image** in it's Parent Container 
+1. How the **box model** works and how padding, borders, and margins affect layout.
+2. How to use **Flexbox** to center elements both vertically and horizontally.
+3. How to apply **border-radius** for creating smooth, rounded corners.
+4. How to fit an **image** in it's Parent Container. 
 
 ## Author
 
